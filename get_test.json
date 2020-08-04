@@ -5,7 +5,7 @@
   "headers": {
     "accept": "*/*",
     "content-type": "application/json",
-    "Host": "dev-manage.onboarding-app.io",
+    "Host": "dev-xxxxx.xxxapp.io",
     "User-Agent": "curl/7.58.0",
     "X-Amzn-Trace-Id": "Root=1-5ed909b1-7a373194e370885e5acafda3",
     "X-Forwarded-For": "27.139.118.160",
@@ -21,7 +21,7 @@
       "application/json"
     ],
     "Host": [
-      "dev-manage.onboarding-app.io"
+      "dev-xxxxx.xxxapp.io"
     ],
     "User-Agent": [
       "curl/7.58.0"
@@ -82,8 +82,8 @@
       "userAgent": "curl/7.58.0",
       "user": "None"
     },
-    "domainName": "dev-manage.onboarding-app.io",
-    "apiId": "t06bjp3tnk"
+    "domainName": "dev-xxxxx.xxxapp.io",
+    "apiId": "t06bjpxxxxx"
   },
   "body": "None",
   "isBase64Encoded": "False"
