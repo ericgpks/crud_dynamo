@@ -1,0 +1,90 @@
+{
+  "resource": "/auth",
+  "path": "/auth",
+  "httpMethod": "GET",
+  "headers": {
+    "accept": "*/*",
+    "content-type": "application/json",
+    "Host": "dev-xxxxx.xxxapp.io",
+    "User-Agent": "curl/7.58.0",
+    "X-Amzn-Trace-Id": "Root=1-5ed909b1-7a373194e370885e5acafda3",
+    "X-Forwarded-For": "27.139.118.160",
+    "X-Forwarded-Port": "443",
+    "X-Forwarded-Proto": "https",
+    "X-API-Token": "xxxxx"
+  },
+  "multiValueHeaders": {
+    "accept": [
+      "*/*"
+    ],
+    "content-type": [
+      "application/json"
+    ],
+    "Host": [
+      "dev-xxxxx.xxxapp.io"
+    ],
+    "User-Agent": [
+      "curl/7.58.0"
+    ],
+    "X-Amzn-Trace-Id": [
+      "Root=1-5ed909b1-7a373194e370885e5acafda3"
+    ],
+    "X-Forwarded-For": [
+      "27.139.118.160"
+    ],
+    "X-Forwarded-Port": [
+      "443"
+    ],
+    "X-Forwarded-Proto": [
+      "https"
+    ]
+  },
+  "queryStringParameters": {
+    "aid": "1",
+    "pid": "2"
+  },
+  "multiValueQueryStringParameters": {
+    "aid": [
+      "1"
+    ],
+    "pid": [
+      "2"
+    ]
+  },
+  "pathParameters": "None",
+  "stageVariables": {
+    "alias": "dev"
+  },
+  "requestContext": {
+    "resourceId": "8n89wm",
+    "resourcePath": "/auth",
+    "httpMethod": "GET",
+    "extendedRequestId": "Nm5zsEc3tjMFmfw=",
+    "requestTime": "04/Jun/2020:14:48:17 +0000",
+    "path": "/auth",
+    "accountId": "091413534636",
+    "protocol": "HTTP/1.1",
+    "stage": "dev",
+    "domainPrefix": "dev-manage",
+    "requestTimeEpoch": 1591282097147,
+    "requestId": "3e1f0a88-46a3-40a8-a6a5-52e9bcf5122c",
+    "identity": {
+      "cognitoIdentityPoolId": "None",
+      "accountId": "None",
+      "cognitoIdentityId": "None",
+      "caller": "None",
+      "sourceIp": "27.139.118.160",
+      "principalOrgId": "None",
+      "accessKey": "None",
+      "cognitoAuthenticationType": "None",
+      "cognitoAuthenticationProvider": "None",
+      "userArn": "None",
+      "userAgent": "curl/7.58.0",
+      "user": "None"
+    },
+    "domainName": "dev-xxxxx.xxxapp.io",
+    "apiId": "t06bjpxxxxx"
+  },
+  "body": "None",
+  "isBase64Encoded": "False"
+}
